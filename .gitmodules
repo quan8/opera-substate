@@ -1,0 +1,6 @@
+[submodule "go-ethereum"]
+	path = go-ethereum
+	url = git@github.com:Fantom-foundation/go-ethereum.git
+[submodule "go-opera"]
+	path = go-opera
+	url = git@github.com:Fantom-foundation/go-opera.git
